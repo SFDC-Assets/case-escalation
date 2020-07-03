@@ -97,11 +97,7 @@
         <field>Asset.Product_Sub_Family__c</field>
         <readable>true</readable>
     </fieldPermissions>
-    <fieldPermissions>
-        <editable>true</editable>
-        <field>Asset.StatusReason</field>
-        <readable>true</readable>
-    </fieldPermissions>
+    
     <fieldPermissions>
         <editable>false</editable>
         <field>Case.Account_Annual_Revenue__c</field>
