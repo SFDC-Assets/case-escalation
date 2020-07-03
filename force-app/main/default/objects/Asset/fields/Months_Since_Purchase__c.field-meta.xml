@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Months_Since_Purchase__c</fullName>
+    <externalId>false</externalId>
+    <formula>if(year( TODAY())-year( PurchaseDate )=0, month(TODAY())- month(PurchaseDate),
+
+if((year(TODAY())-(year(PurchaseDate)+1))&gt;=1,
+
+(
+
+((year(TODAY()))-(year(PurchaseDate)+1))*12)+
+
+((12-month(PurchaseDate))+month(TODAY())),
+
+(12-month(PurchaseDate))+month(TODAY())))</formula>
+    <formulaTreatBlanksAs>BlankAsZero</formulaTreatBlanksAs>
+    <label>Months Since Purchase</label>
+    <precision>18</precision>
+    <required>false</required>
+    <scale>0</scale>
+    <trackHistory>false</trackHistory>
+    <type>Number</type>
+    <unique>false</unique>
+</CustomField>

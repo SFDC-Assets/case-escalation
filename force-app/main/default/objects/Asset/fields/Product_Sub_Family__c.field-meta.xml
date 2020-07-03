@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>Product_Sub_Family__c</fullName>
+    <externalId>false</externalId>
+    <label>Product Sub Family</label>
+    <required>false</required>
+    <trackHistory>false</trackHistory>
+    <type>Picklist</type>
+    <valueSet>
+        <restricted>true</restricted>
+        <valueSetDefinition>
+            <sorted>false</sorted>
+            <value>
+                <fullName>Surveillance</fullName>
+                <default>false</default>
+                <label>Surveillance</label>
+            </value>
+            <value>
+                <fullName>All-in-One</fullName>
+                <default>false</default>
+                <label>All-in-One</label>
+            </value>
+            <value>
+                <fullName>Safety</fullName>
+                <default>false</default>
+                <label>Safety</label>
+            </value>
+            <value>
+                <fullName>Speakers</fullName>
+                <default>false</default>
+                <label>Speakers</label>
+            </value>
+            <value>
+                <fullName>Other Hardware</fullName>
+                <default>false</default>
+                <label>Other Hardware</label>
+            </value>
+            <value>
+                <fullName>Cordless</fullName>
+                <default>false</default>
+                <label>Cordless</label>
+            </value>
+            <value>
+                <fullName>Saws</fullName>
+                <default>false</default>
+                <label>Saws</label>
+            </value>
+            <value>
+                <fullName>Drills</fullName>
+                <default>false</default>
+                <label>Drills</label>
+            </value>
+            <value>
+                <fullName>Accessories</fullName>
+                <default>false</default>
+                <label>Accessories</label>
+            </value>
+        </valueSetDefinition>
+    </valueSet>
+</CustomField>

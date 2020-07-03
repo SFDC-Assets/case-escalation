@@ -1,0 +1,501 @@
+Name,AnnualRevenue,Avg_NPS_Score__c,Account_Health_Score__c,External_ID__c,Strategic__c,Red_Account__c,Industry,Support_Level__c
+Orn and Sons,154507.61,-53.78,21.01,60f69ddb-3cdc-421d-b98c-25cf9d6115e4,FALSE,FALSE,Public Sector,Basic
+"Lockman, Luettgen and Cartwright",1185655.04,-22.72,84.04,e42018e8-5666-49d5-8daa-e45597119419,FALSE,FALSE,Education,Basic
+Gorczany-Mayer,993040.72,73.86,18.46,0522477b-00ba-4367-a6f9-12c1dc3967ce,FALSE,FALSE,Construction,Premium
+Fahey LLC,1082092.0,17.91,56.12,f1272e24-340c-455a-a7a9-49a7b3a6255f,FALSE,FALSE,Education,Basic
+Brakus-Kessler,727879.99,-77.91,34.66,ebe7a36e-ff51-4331-9305-84faf4c2f7d3,FALSE,FALSE,Education,Basic
+Stroman and Sons,1344354.96,10.01,3.4,afa92828-8e16-457a-bf41-9504a8bd5875,FALSE,FALSE,Public Sector,Enhanced
+Blanda LLC,625587.97,-31.96,30.3,8b7b42f2-954c-4a5d-a71d-4a7cf0302ed6,FALSE,FALSE,Construction,Basic
+Hoppe-Morissette,1263162.24,-29.28,4.54,0bca0c43-8a44-4ed9-a2ff-9bce6f8a6d49,FALSE,FALSE,Construction,Basic
+"Hodkiewicz, Hettinger and Lehner",350757.75,-57.82,84.02,61749e18-761c-4874-9137-a094b29601b1,FALSE,FALSE,Construction,Basic
+"Schulist, Wilkinson and Barton",432480.05,26.23,8.7,66c2f4b6-1fe1-45e7-887a-3b1edb54a715,FALSE,FALSE,Financial Services,Enhanced
+Lubowitz Inc,1257275.17,85.39,27.4,7e4143f3-ce44-41d7-8463-f4758275fa2b,FALSE,FALSE,Construction,Premium
+Huels-West,864804.8,18.96,77.53,740db777-eaae-4ce8-acbb-d5fb32422c41,FALSE,FALSE,Construction,Enhanced
+Harris LLC,805829.93,17.23,50.87,a81c0776-2729-4874-a8de-1fb32a56694c,FALSE,FALSE,Construction,Premium
+McLaughlin Group,1019814.61,23.36,30.81,e7df8b60-0ae1-4126-957c-09fa3ba8280c,FALSE,FALSE,Construction,Basic
+Bailey Group,873482.66,1.32,97.48,8e20c32b-e8f2-454a-ba1a-867b741ecb8f,FALSE,FALSE,High Tech,Enhanced
+Wiza Inc,654513.82,-16.55,17.89,1ffd2ccd-e1f9-479f-9132-a602203753ec,FALSE,FALSE,Education,Premium
+Conroy-Jacobi,1032633.1,74.64,1.57,316dea4f-7091-414d-ac25-234f0c13630e,FALSE,FALSE,Construction,Basic
+McClure-Volkman,1273163.05,1.46,96.32,a4702dce-d606-4ae2-9903-5dd7be5045e2,FALSE,FALSE,Public Sector,Basic
+Gottlieb-Dibbert,28889.39,-15.53,47.23,62b2da75-6bb6-40d9-a21e-e93f3be79e3b,FALSE,FALSE,Construction,Enhanced
+Romaguera-Hand,639921.85,-97.2,10.58,658d0e02-c243-4134-8020-3683b4345c4f,FALSE,FALSE,Construction,Basic
+Tromp LLC,1358873.95,89.54,12.17,dd1483da-d7b6-47a7-97c1-9abfbd1cd1c7,FALSE,TRUE,Education,Enhanced
+Gulgowski-Kirlin,1174849.4,-43.66,80.9,ca795852-ffee-4ca5-899f-9b6ab6328fca,FALSE,FALSE,Construction,Basic
+Hahn-Dooley,198144.26,-92.8,86.01,ddf6a514-91a8-4138-9d02-0264d13b161d,FALSE,FALSE,Public Sector,Enhanced
+Volkman-Streich,587966.59,8.74,42.16,f8ac602e-8972-4873-834e-8918a8bf39e9,FALSE,FALSE,Education,Enhanced
+Reynolds-Dare,1120048.73,-83.07,16.0,6b153d99-79e2-4fe2-8964-bd03954b04a4,FALSE,FALSE,Public Sector,Enhanced
+Beahan and Sons,33189.73,-54.16,11.07,092278b2-4ec3-4ed3-93af-db27e645ff01,FALSE,FALSE,Construction,Enhanced
+Feil LLC,882441.74,-51.3,33.71,b584662a-c3a9-4f40-a175-03353c0a960a,FALSE,FALSE,Financial Services,Basic
+"Oberbrunner, O'Kon and Morar",291863.11,81.46,56.93,9d5e6be6-9430-4160-93fa-b87363ebf005,FALSE,FALSE,Financial Services,Premium
+Homenick and Sons,419915.93,-95.0,88.72,bf383808-c4c3-403d-b34f-921d6806cdc9,FALSE,FALSE,Education,Basic
+Bode LLC,767004.36,90.94,81.51,5fb83f92-1bcd-492f-b47d-d27eed475816,FALSE,FALSE,Public Sector,Basic
+"Von, Little and Vandervort",1112069.77,-88.46,65.73,1891dc20-a074-4520-ac74-4614a31fb042,FALSE,FALSE,Construction,Basic
+"Murphy, Stoltenberg and Feeney",355548.09,20.98,94.13,7f22a726-6e72-4bdb-8681-288849222f41,FALSE,FALSE,Construction,Premium
+"Cartwright, Jacobi and Lehner",1468071.32,60.15,23.11,67271717-bfbf-4767-9088-dd85c5acbb38,FALSE,FALSE,Public Sector,None
+Donnelly-Osinski,481962.7,3.49,29.8,b6edb1e4-1a7f-4fe7-8f51-010489b6b5bc,FALSE,FALSE,Public Sector,Enhanced
+Homenick-Conroy,1033523.98,28.44,76.67,d6192fe0-7d4b-4834-9464-4321c79ca51d,FALSE,FALSE,Construction,Enhanced
+Balistreri Inc,358712.78,-81.58,81.71,b38a1527-a933-484c-89ab-138379a19384,TRUE,FALSE,Construction,None
+"Cronin, Batz and Hane",1209939.0,-96.41,98.25,76e2e5b2-5ad1-4290-af02-b73df38e902c,FALSE,FALSE,Education,Enhanced
+Ledner Inc,1497725.68,-32.99,85.33,ade1f742-99cc-4333-9dc4-b969961f86e2,FALSE,FALSE,Financial Services,Premium
+Cronin and Sons,979609.74,95.14,40.39,b886bd1f-e867-4f4a-a291-d7858d9fb493,FALSE,FALSE,Financial Services,Basic
+Fadel-Cruickshank,1096962.2,-15.05,19.66,4eb7392d-5f2d-48b9-b4dd-b3fa840b96df,FALSE,FALSE,Public Sector,Premium
+Senger-Cummings,587532.14,-9.53,49.75,bac601aa-9668-4d48-aac2-a46095cb6909,FALSE,FALSE,Public Sector,Premium
+Hegmann Inc,641345.9,-25.85,17.76,7e315228-5f04-445e-80ef-0d027c977a95,FALSE,FALSE,Construction,Basic
+Krajcik Group,1095378.42,58.5,77.79,1de45b5b-d77d-4e36-a67c-9fb39b7f36f8,FALSE,FALSE,Public Sector,Basic
+"Stoltenberg, Stanton and Wyman",38686.44,83.58,20.15,e2360384-5d65-4b44-8fc5-e187ce612bf5,FALSE,FALSE,Construction,Basic
+Krajcik-Harris,1104923.09,-95.84,24.04,a601bda3-867c-4ba5-bfe7-fe831dd3351e,FALSE,FALSE,Public Sector,Basic
+"Lueilwitz, Gerlach and Hyatt",470221.62,20.95,56.74,9be7e253-2a42-475d-8318-2b6327aad892,FALSE,FALSE,Public Sector,Basic
+Hodkiewicz-Corkery,175685.27,47.93,28.21,c9fdb354-467c-42bf-99b1-779a9fce7797,FALSE,FALSE,Public Sector,Enhanced
+"Nienow, Brown and Sporer",1105949.99,-44.05,3.97,7981e000-80f8-4c14-b342-ceffd1bb0b93,FALSE,FALSE,High Tech,Basic
+Kris Group,1044733.0,-6.86,52.87,8e327deb-5d83-4333-9fa5-50263eeba875,FALSE,FALSE,Public Sector,Basic
+"Lynch, Emmerich and Okuneva",1358734.67,-1.79,5.38,4dd5247f-626e-40bb-b76e-26ab50d58a60,FALSE,FALSE,Construction,Basic
+"Bashirian, Schneider and Hammes",1334298.57,79.61,32.2,17a4ee5c-9768-477f-aeec-82199e9812aa,FALSE,FALSE,Construction,Enhanced
+Barton Inc,715523.08,-50.14,63.26,cb5c557e-4269-468b-98fc-8e657c010426,FALSE,FALSE,Financial Services,None
+Heaney-Greenholt,888741.59,98.24,44.22,9e73a45b-0576-4ffe-87d9-7d967a30846c,FALSE,FALSE,High Tech,Enhanced
+Schuppe LLC,353744.3,5.39,95.72,c6173e1c-4fe9-4dd0-b253-15bd57db9c9d,FALSE,FALSE,Public Sector,Basic
+Hamill Group,653653.82,-42.91,83.65,59804c71-91ea-458d-8e1a-97685529a403,FALSE,FALSE,Public Sector,Basic
+Gulgowski-Bogan,1441608.07,-83.61,30.45,e9f1ceeb-5dd8-4b48-a473-bfbeb6499aab,FALSE,FALSE,Education,Premium
+"Stokes, Shields and Brakus",749852.88,-86.86,59.21,a4a1cd10-28c2-4bc0-8e49-24b554178af7,FALSE,FALSE,Construction,None
+"Toy, Olson and Jast",251967.84,-63.27,10.28,6cf1551c-a66b-4376-b7f3-c89fedcdbbc6,FALSE,FALSE,Construction,Basic
+"Stehr, Zemlak and Will",500353.12,16.27,27.2,ff0638d6-a103-4590-a180-52cae69e8f11,FALSE,FALSE,Construction,Basic
+Haag LLC,341478.62,58.47,1.71,21b26bc6-07d4-40be-87f3-d5042d361747,FALSE,FALSE,Education,Basic
+Little Group,1477873.81,89.82,34.17,95b3166b-411e-4123-9080-1ba0f51d67eb,FALSE,FALSE,Construction,Basic
+"Homenick, Senger and Spinka",639161.5,88.1,37.99,67499c24-bf2b-48f0-b88e-805b64bd5eb8,FALSE,FALSE,Financial Services,Basic
+Larkin-Toy,1241835.65,78.11,84.46,03ce9c4c-71c9-474e-87a3-0462abdb2610,FALSE,FALSE,Education,Enhanced
+Herman LLC,416824.03,28.3,26.17,eec93e3a-dcd6-4d9b-8d3b-f0c9fe40ce52,FALSE,FALSE,Financial Services,Premium
+Nienow-Oberbrunner,105704.52,-2.34,17.64,6f8a583e-d5a2-4eb1-83ff-14322c62b989,FALSE,FALSE,Public Sector,Enhanced
+"Legros, Kihn and Stanton",385757.41,28.7,53.08,e0e88130-a268-4573-bd41-781828a637f1,FALSE,FALSE,Public Sector,Enhanced
+Homenick-Lubowitz,248496.74,-27.67,41.2,0519616f-9a83-4e8a-b13e-b9fe5ceedd52,FALSE,FALSE,Public Sector,Premium
+"Rau, Upton and Larkin",104071.12,-88.74,64.56,8680f1fb-70dc-4bdb-9cba-5e3bcfc7bad3,FALSE,FALSE,Construction,Basic
+Kiehn Inc,920954.69,-95.39,4.75,47f24ace-b8ad-4b9e-b81c-ec8db8479676,FALSE,FALSE,Education,Basic
+Schowalter LLC,1286391.44,-26.85,72.31,1399539f-6cea-4708-ba38-c5b687f82d14,FALSE,FALSE,Public Sector,Enhanced
+Sauer and Sons,152542.02,63.76,18.21,8d463cd5-e284-488a-8f45-e329301c10ec,FALSE,FALSE,Public Sector,Enhanced
+Osinski-Schinner,1163622.64,-78.2,56.88,259b7b41-0460-45f9-a207-7220ef115677,FALSE,FALSE,Education,Premium
+Gerhold LLC,346251.48,4.03,1.44,bc2c7944-1ce0-4de1-a0d5-0cfea63f2b6d,FALSE,FALSE,Public Sector,Enhanced
+Adams Inc,1323551.18,-47.37,94.28,3aace92e-fff1-4e98-9290-e5661f83d25e,FALSE,FALSE,Construction,Basic
+"Gorczany, Beer and Ritchie",1196477.46,20.69,8.56,f22db20d-e678-420e-9bad-ca3f3860972b,FALSE,FALSE,High Tech,Enhanced
+Welch-Blick,1391051.57,-8.45,32.05,457c8157-0686-42d8-b31c-503719f45b89,FALSE,FALSE,Construction,Enhanced
+"Russel, Nikolaus and Rippin",916302.77,-97.17,62.81,cfe3aa22-a906-42dc-abf3-5725e506f670,FALSE,FALSE,Financial Services,Premium
+Bosco LLC,790469.38,-67.62,34.62,d90c37cf-ccca-4921-8d12-0014738c341d,FALSE,FALSE,Education,Basic
+"Nienow, Pouros and Gerhold",205659.39,-33.42,65.16,aaf8b683-7c0d-40f0-aedf-5ca3630ec247,FALSE,FALSE,Public Sector,Basic
+Weber Group,518773.98,58.75,42.75,b08d0b22-b7d0-4cf9-b4bb-bab3c775c648,TRUE,FALSE,Financial Services,Basic
+Hayes-Turcotte,786784.97,96.02,22.13,0e29d86c-a447-4001-8d79-7f4a912dce2a,FALSE,FALSE,Public Sector,Basic
+"Klein, Koepp and Rath",516510.26,-1.56,36.38,049e3b3d-6156-47a5-afca-94ff262455eb,FALSE,TRUE,Public Sector,Enhanced
+"Hauck, Runte and Quitzon",1463198.0,23.16,28.7,f87822e1-e0b3-4321-a359-5d43f5c83ff3,FALSE,TRUE,Construction,Basic
+Treutel-Barton,561397.71,-77.1,45.55,5d4870fa-ab71-45ca-804f-c7d24733a5fd,FALSE,FALSE,Construction,Enhanced
+Cassin Group,1288110.11,-66.69,16.83,cf9c0daa-9dc2-40d5-9e1a-e860ad420b47,FALSE,FALSE,High Tech,Basic
+"Schiller, Morar and Pouros",426145.91,-29.86,82.92,69e16212-86c2-4fd0-acda-367142e7afdc,FALSE,FALSE,Construction,Basic
+Schmeler LLC,871099.23,67.36,68.96,03edddca-9b63-4dbf-9034-7b5448eee13a,FALSE,FALSE,Education,Premium
+Johns Inc,669440.59,50.14,31.04,4903ae4d-3755-4266-8f81-f90e91d4ab37,FALSE,FALSE,Education,Enhanced
+Kozey-Lowe,653745.62,45.09,26.42,4f83200c-4ad2-4acd-b375-c2b8c42c31e5,FALSE,FALSE,Construction,Premium
+Schamberger-Langosh,1137220.57,31.52,97.62,653b440c-04ba-43cc-8f9d-d62184a7e0e6,FALSE,FALSE,Public Sector,Premium
+"Schoen, Bins and Skiles",1057823.16,19.84,77.67,ff6d77cb-db59-47a9-be21-d8ecc1cc4cff,FALSE,FALSE,Education,None
+Reichel-Hahn,1092062.0,94.92,20.96,dd3ba5cc-90b1-4fd9-b4c6-a8abe41e1b6b,FALSE,FALSE,Education,Basic
+"McDermott, Kuhic and Walter",1120063.51,53.24,33.21,6713fe84-bee0-4317-94b4-3e072bbda53c,FALSE,FALSE,Education,Premium
+Graham Group,1458543.01,31.05,59.98,edfacd38-794f-4659-8be3-563170d7aa2a,FALSE,FALSE,Education,Basic
+Bernier LLC,123037.05,80.96,36.02,a9ca0b13-c79f-4e47-b0d3-710b0f722899,FALSE,FALSE,Construction,Basic
+Von Group,392487.06,-80.36,29.79,48fa04cf-89d6-4050-8d29-1f858614fb24,FALSE,FALSE,Education,Enhanced
+"Botsford, Walter and Bruen",531604.06,-39.09,44.61,5b554437-0ecd-4388-98e7-a7c690fd9aac,FALSE,FALSE,Construction,Basic
+Treutel-Breitenberg,31393.6,93.66,48.86,b9e7a837-583b-401c-8eb2-4afc21d9d191,FALSE,FALSE,Public Sector,Premium
+"Ruecker, Volkman and Schinner",489571.73,-44.18,41.68,bd22d20b-04f4-4386-983b-31e1ec905ef7,FALSE,FALSE,High Tech,Basic
+Murazik-Welch,1095799.04,-93.43,38.72,27237a55-df44-43c4-92e0-d13059ea91d4,FALSE,FALSE,Public Sector,Enhanced
+"Purdy, Weimann and Conroy",15652.56,-69.96,98.94,d6ff9f45-a0d5-4acc-8b55-573151df8bdc,FALSE,FALSE,Construction,Enhanced
+"Torphy, Sporer and Corkery",246564.61,59.69,51.51,75eb36ea-5ec6-4086-a946-a5f270c7974b,FALSE,FALSE,Education,Enhanced
+Lehner-Gibson,1346953.15,35.02,76.94,f17f1299-44d6-45f0-8c09-f9e265bf7ef2,FALSE,TRUE,Education,Premium
+Dach-Medhurst,1291208.55,-17.12,15.55,450ac245-7643-48e2-b7f5-d1cc6028b50b,FALSE,FALSE,Public Sector,Enhanced
+West-Dicki,1481902.32,-36.39,88.82,6ce0c573-3bc5-4b95-8332-d965c8743903,FALSE,FALSE,Public Sector,Enhanced
+Carter-Cartwright,1251841.82,-66.72,72.8,99c7cf5f-82d7-4ed1-a8d4-5b472a9f0573,FALSE,FALSE,Education,Premium
+Powlowski-Nicolas,256101.23,79.45,1.97,9998daac-380d-481c-9151-5adde9962101,FALSE,FALSE,Education,Basic
+"Wiza, Satterfield and Hilpert",365381.5,-41.76,42.06,d7e7eff1-3644-4daa-aaf2-f4c60b293244,FALSE,FALSE,Construction,Basic
+Mertz Group,1276710.91,90.58,24.32,8da99ed8-fb22-4ec7-900f-3cee49fa6431,FALSE,FALSE,Education,Basic
+"Bartell, Zemlak and Dooley",282496.62,25.76,43.58,26f906f7-0919-4382-8c7e-91660ce92379,FALSE,FALSE,Construction,Enhanced
+"Waelchi, Dicki and Hettinger",1198905.64,96.07,12.7,66d23aff-f097-4479-9466-6080000474cf,FALSE,FALSE,Financial Services,Premium
+Bogan-Waters,771401.48,-78.35,65.34,840c3ec9-c6fa-48e1-b85f-4769e41e5196,FALSE,FALSE,High Tech,Basic
+Keeling Group,555916.87,88.6,49.03,4c3e2dc7-41fd-45ef-a7ae-3e8c70edf79d,FALSE,FALSE,Public Sector,Basic
+"Bailey, Witting and Emard",358019.14,98.72,86.94,50f11272-7ea5-4fad-84a6-54837652285f,FALSE,FALSE,Education,Premium
+Conn Inc,226004.15,-83.93,19.38,4b81b715-0118-4cd7-8c96-410fe01a5930,FALSE,FALSE,Public Sector,Basic
+Lakin Group,575225.6,-46.16,84.09,5bf55ce5-c579-4967-b31d-1a58c30df63c,FALSE,FALSE,Financial Services,Basic
+"Brekke, Howell and Sawayn",925529.12,-24.47,75.96,d972d42d-9e33-445d-8cba-70a6f02d05db,TRUE,FALSE,Public Sector,Enhanced
+Schaefer Group,1440927.66,99.55,22.55,990035da-3bb2-4ffd-8ad2-c2fe5c32a25b,FALSE,FALSE,Public Sector,Basic
+Carter Group,751347.61,73.65,34.58,eea632b4-aa55-430d-b1a2-484e6f43698f,FALSE,FALSE,Education,Enhanced
+Weissnat and Sons,385979.25,-28.45,6.98,99251ca9-ffdc-486c-8a96-5f6ad861ab9c,FALSE,FALSE,Financial Services,Basic
+Kling and Sons,13291.28,27.78,15.37,6d292f5e-731a-4d29-967b-2d6d1ffb912b,TRUE,FALSE,Construction,Basic
+Stanton Inc,408068.87,-51.84,70.57,7d1c5aa5-101a-4c6d-9ea8-d8da3acfc120,FALSE,FALSE,Public Sector,Premium
+Schoen Inc,164490.28,27.71,2.69,b10477ba-b655-4057-8744-0fa6a86eb787,FALSE,FALSE,Construction,Premium
+Stanton Inc,481754.32,-33.93,61.18,e073377a-ec86-4fe8-8585-017422b050d5,TRUE,FALSE,Public Sector,Basic
+Jones-Jast,1034020.58,-25.58,87.79,58925379-c2e4-4d33-8e75-dc026acb32a1,FALSE,FALSE,High Tech,Basic
+Bednar-Oberbrunner,102011.13,31.11,59.36,d2813004-6444-4882-b75a-736f39c216f9,FALSE,FALSE,Public Sector,Premium
+Kemmer Group,877089.0,-36.88,97.65,52e50d13-ed52-4e1b-b4e3-86643e608b41,FALSE,FALSE,Construction,Basic
+Ward-Kuhn,475400.47,-28.84,29.77,ea352ff5-9c03-43a4-9857-ead9dfd781a7,FALSE,FALSE,Construction,Basic
+Lakin-Hansen,629062.34,72.64,9.93,be53f326-b54a-42f0-96bb-706374a12c30,FALSE,FALSE,Construction,Basic
+Morissette and Sons,352709.8,-24.63,94.97,d7f3a381-0218-4a9d-8b18-78c9f5e79654,FALSE,FALSE,Construction,Enhanced
+Hand-Schaefer,1348004.34,2.88,43.32,62058551-9ad7-4c1e-b20b-8151321731b8,FALSE,FALSE,Education,Basic
+Romaguera and Sons,791506.19,23.78,29.66,b311877a-7549-445c-a6a4-6eb79fb67531,FALSE,FALSE,Construction,Basic
+Littel Group,46285.63,-38.41,0.57,df778edd-a3a1-4958-8dc4-7f267056d569,FALSE,FALSE,Education,Premium
+Trantow-Wintheiser,277223.81,-0.12,66.11,c325aeac-b0c9-4344-82bb-e4cf09e126ba,FALSE,FALSE,Education,Basic
+Bauch-Hessel,732480.34,-85.99,71.95,069d6910-dd12-4e54-97bc-ad6fbab0d104,FALSE,FALSE,Education,Premium
+Spinka Inc,741551.62,-4.36,25.49,dbdfbfdd-5807-4b5e-be9f-c6edfad8620a,FALSE,FALSE,Public Sector,Enhanced
+"O'Keefe, Schmidt and Veum",364725.73,-28.34,37.88,dbd86dca-0567-4077-a725-6fa1e2537b0c,FALSE,FALSE,Public Sector,Basic
+Russel and Sons,1168706.03,-34.18,77.63,606a54c8-101c-4082-b725-5b057ba13be1,FALSE,FALSE,Education,None
+"Davis, Hahn and Abbott",1488390.13,-55.71,96.94,6dce8587-bc4c-4ba2-9737-1f21974a7b6f,FALSE,FALSE,Education,Basic
+Boehm LLC,1058846.58,-97.22,38.92,a9bcce75-ead0-460a-9a6b-da0697175bf0,FALSE,FALSE,Construction,Enhanced
+Mante-Volkman,415443.7,47.36,6.76,8be18de2-a127-411f-8dc2-83df11317cb0,FALSE,FALSE,Education,Basic
+Koepp-Kris,1312333.54,21.75,95.99,f30bdf83-940a-465e-a821-74ad4d1926cd,FALSE,FALSE,Construction,Premium
+Conroy-Baumbach,1245321.41,14.36,17.32,bbaaedd0-ff3b-4fb4-97cb-2cf83337f9a1,FALSE,FALSE,Public Sector,Enhanced
+Jakubowski Group,1173348.39,12.59,73.31,307a7b71-c1f9-4bb3-ac33-5327f97e6669,FALSE,FALSE,Construction,Enhanced
+Leuschke-Mills,1495080.91,26.89,94.85,ebedd9bb-ab18-4db5-b285-a51ebf4fa573,FALSE,FALSE,Construction,Basic
+Conn Group,53522.8,5.4,78.68,5935df73-4740-4782-b7ac-06dda14543aa,FALSE,FALSE,Education,Basic
+"Torphy, Armstrong and Stracke",103487.17,-34.74,81.5,9a866fde-db23-447d-98e5-3ed785c5dff3,FALSE,FALSE,Education,Enhanced
+"Rowe, Bechtelar and Reichel",91095.34,-83.19,35.74,85459fc7-7d67-4207-8794-5e4e5ce7717d,FALSE,TRUE,Education,Basic
+Schumm-Trantow,866997.05,1.98,60.31,e83d725a-307e-4064-988c-5f14ef3cd787,FALSE,FALSE,Public Sector,Enhanced
+Kreiger Inc,741239.96,11.37,8.87,f745ad2e-67e8-4304-bad7-281d14931f15,FALSE,FALSE,Education,Basic
+Hodkiewicz and Sons,438731.83,66.9,73.12,1ba6dc54-0994-439f-8bfd-bcaf13124fc9,FALSE,FALSE,Education,Basic
+Hilll-Swift,587091.97,14.49,40.33,fef358c2-bd7c-4934-b1ff-c01c481159fd,FALSE,FALSE,Education,Enhanced
+Corkery-Ratke,505773.89,61.91,38.54,af854f5a-c204-47b6-ac7e-cb66580f15c0,FALSE,FALSE,Education,Enhanced
+Daniel-O'Connell,1402023.97,-70.02,37.8,8e38a835-2c1b-4584-b2b6-8f70f2ebd13a,FALSE,FALSE,Public Sector,Basic
+Boyle Inc,702374.94,-2.33,25.07,e288bada-7f09-41ab-98b5-52248c244aa9,FALSE,FALSE,High Tech,Enhanced
+"Miller, Konopelski and Jast",409625.6,-60.95,88.67,f100fad3-30ff-4d7c-ba5d-fb8c5477862d,FALSE,FALSE,Education,Enhanced
+Wiza Inc,1318091.0,-95.53,18.85,d6cdb4f1-133c-4a28-92ec-14f7125a83ed,FALSE,FALSE,Public Sector,Basic
+"Leannon, Jakubowski and Windler",1314752.34,-58.82,66.04,f7302775-22e9-467c-b9b2-2629c77529ba,FALSE,FALSE,Construction,Basic
+"O'Conner, Rutherford and Klocko",1077496.14,-49.35,83.44,b23893f3-a838-4ffd-b448-9123c20ce1c4,FALSE,FALSE,Education,Premium
+Hayes-Murazik,65382.42,-55.94,29.9,0f89f344-2ba7-4987-80df-1691017eb7e1,FALSE,FALSE,High Tech,None
+"Swaniawski, Weissnat and Feeney",266217.11,-16.65,29.87,b2e1a7ca-95c6-4cbd-8591-d4b435f2eee0,FALSE,FALSE,Public Sector,Enhanced
+"Kassulke, Veum and Ryan",708868.87,-79.71,68.39,50c20c76-d181-4d7d-ba4e-acab37af1de5,FALSE,FALSE,Construction,Basic
+Koss and Sons,1021385.98,-72.9,69.53,567dc932-1fa2-4aad-8b6f-4847a74a88bb,FALSE,FALSE,Education,Basic
+Metz and Sons,8077.55,-15.07,15.76,63582815-91a9-4e96-981b-de7cd521a50e,FALSE,FALSE,Education,Premium
+"Koch, Maggio and Gibson",765490.33,13.0,98.37,8ee23977-ffad-41c4-b812-7331e17e5ba1,FALSE,TRUE,Construction,Basic
+"Moen, Jones and Sawayn",1243168.45,-68.21,10.1,33b87dc8-4d4d-4880-a637-977e2795127f,FALSE,FALSE,Financial Services,Premium
+Harris-Vandervort,427410.73,-80.99,20.11,4e3f0288-47a9-44b1-b658-88086c874fda,FALSE,FALSE,Construction,Basic
+Gislason and Sons,1286147.37,-30.0,87.57,9a6d4456-22a8-4d08-b328-29d6e0d9cbb5,FALSE,FALSE,Education,Basic
+Rau Inc,581553.78,-18.59,37.26,760225d5-9ac0-4bd7-b6ec-42529baac3c3,FALSE,FALSE,Construction,Basic
+Ernser-Homenick,258873.31,78.36,35.1,d2182a3f-2730-4d63-9d94-c41a9fe704c8,FALSE,FALSE,Education,Basic
+Hamill-Volkman,1433268.92,57.78,23.62,e067de1b-c1f6-488f-af79-6e6323b82dab,FALSE,FALSE,Education,Basic
+Botsford LLC,565460.4,19.62,4.73,9e9b56e7-ff0d-448a-bad2-b81853b2c5f4,FALSE,FALSE,Public Sector,Basic
+"Schumm, Lockman and Kuhn",576249.23,99.91,49.05,344c4dad-b7c2-4d88-b32a-3ee4cb94aaf2,FALSE,FALSE,Education,Enhanced
+"Hermann, Runolfsdottir and Ankunding",139934.28,95.03,6.15,d42d2d14-f84b-432e-a7cc-4a0cabfceeab,FALSE,FALSE,Education,Basic
+"Kulas, Watsica and Von",373839.33,-37.61,3.99,cfc9247b-41d3-40f1-8287-50bcfa9f674f,FALSE,FALSE,Education,Enhanced
+Franecki-Konopelski,1108695.87,-71.11,46.6,2b9f6822-d59a-40b3-8411-831b9ee84e5b,FALSE,FALSE,High Tech,Enhanced
+"Fadel, Nitzsche and Dach",305541.02,-85.08,29.52,6d45bee7-b2bb-4424-ac51-81ed5a2560c0,FALSE,FALSE,Education,Premium
+Borer-Weimann,1117425.09,-24.19,29.5,f00d4884-c0df-423c-b6fc-3f5b33d45b1f,FALSE,FALSE,Education,Enhanced
+"Zieme, Bartell and Quitzon",1222928.0,-72.19,48.83,c6f8752a-5671-4746-9865-3185e8d707a9,FALSE,FALSE,Construction,Basic
+Hand-Bergnaum,100805.84,-33.11,46.98,5256cd2f-f65a-4645-9c67-b25a2dfc8fb1,FALSE,FALSE,Public Sector,Premium
+Pfannerstill-Ratke,392339.41,-46.22,12.31,dc033bc8-5943-418a-bf62-532544230fe2,FALSE,FALSE,Education,Enhanced
+Dickens-Wiza,1157957.0,5.23,93.65,e16b58aa-6397-4fa6-aa01-7f7d769fb079,FALSE,FALSE,Construction,Enhanced
+Rice-Zemlak,293505.04,-36.2,51.92,6e134cf1-51af-45ef-821b-8410f1a7fbbe,TRUE,FALSE,Financial Services,Premium
+Wiegand and Sons,400290.94,-77.95,7.99,c168bb66-9f95-4fd9-b0ea-ae602ce3b98f,FALSE,FALSE,Education,Basic
+Buckridge LLC,282478.03,84.51,54.58,99f336ca-cb6a-49d7-b667-957ab31b118b,FALSE,FALSE,Public Sector,Enhanced
+Schmitt Inc,844508.62,-54.25,66.75,c77896d9-7e76-4d18-8bf3-9eda10d6508f,FALSE,FALSE,Education,Enhanced
+"Brakus, O'Kon and Breitenberg",898668.48,59.21,96.04,9d865b67-513c-4e47-9ae0-49ea1fc912cf,FALSE,FALSE,Education,Enhanced
+Blanda Inc,715839.3,46.58,9.28,3d4c51b0-d923-486e-8f68-8a94f591fe3a,FALSE,FALSE,Construction,Premium
+Ziemann-Howell,1489686.98,-56.35,23.54,4e59a65a-d009-4dd2-b151-3007e0155757,FALSE,FALSE,Construction,Basic
+"Padberg, Metz and Hickle",966638.9,69.42,67.54,e7ebe5c9-3a64-4197-b2aa-37b2ce30f199,FALSE,FALSE,Construction,Enhanced
+"Olson, Raynor and Cassin",1218192.0,25.56,70.74,11058746-3aee-46ad-acde-5ada93554cfa,FALSE,FALSE,Public Sector,Premium
+Kub-Skiles,564370.67,-65.68,10.61,ead96de6-889a-4b4b-b64e-4b4a3a4ce1cb,FALSE,FALSE,Construction,Basic
+Corkery Group,1392375.24,-62.69,35.5,5c1a077d-d1d9-4b6f-a37c-d8a9703751d8,FALSE,FALSE,Financial Services,Basic
+Oberbrunner-Schowalter,573852.12,46.36,44.37,2cd82399-1b97-4ef5-a4e4-9b8c4d97b337,FALSE,FALSE,Construction,Enhanced
+Auer-Champlin,1033629.19,2.88,94.02,d56119c5-14da-401e-8acf-7068b4859731,FALSE,FALSE,Financial Services,Enhanced
+"Howell, Marvin and Friesen",422566.19,20.09,51.23,103bd5f4-75af-4e9b-9871-8de7ea4cac2e,FALSE,FALSE,Public Sector,Premium
+"Lakin, Borer and Daugherty",1031867.34,56.84,52.14,2686bae1-5b75-484f-b449-6aa182079163,FALSE,FALSE,Education,Basic
+Krajcik Group,1064511.61,87.91,61.96,f53726f4-9326-4b8c-8279-bb57ab5884f9,FALSE,FALSE,Construction,Enhanced
+Kling-Wintheiser,36716.23,-88.26,32.85,f5be41ad-381d-4782-b024-5354b7dadabd,FALSE,FALSE,Public Sector,Basic
+Schamberger-Wuckert,232349.78,-49.57,34.09,eb6b4d31-fcc2-43f4-8626-55bf4e7966b7,TRUE,FALSE,Public Sector,Enhanced
+Nikolaus Group,1240275.92,19.08,85.02,a9f17e6c-4f48-4a68-9556-fcd29eaf69db,FALSE,FALSE,Education,Basic
+Treutel and Sons,651399.39,6.43,98.93,acbf80d4-0c0b-4373-8b10-42cdd919cb4e,FALSE,FALSE,Education,Basic
+Bartell LLC,1062162.24,37.41,64.58,ee0fe9be-1595-4731-9fdc-25345e44b948,FALSE,FALSE,Education,Premium
+Larson Inc,996440.73,-3.53,11.22,4312c6f1-3d07-447a-8f2e-48900cd07088,FALSE,FALSE,Public Sector,Basic
+Hegmann-Ziemann,240533.27,35.95,29.26,f4501e8c-d8ce-4378-aba1-b9e80a1f8799,FALSE,FALSE,Education,Basic
+Nienow-Stroman,1034809.1,49.93,54.6,2fd1fdae-6529-457c-9787-35472bcb35ce,FALSE,FALSE,Construction,Basic
+"Kemmer, Collier and Bogisich",876107.86,71.67,10.86,e293dd1d-40c5-4b0a-8bb8-d111f1ffb0d9,FALSE,FALSE,Education,Basic
+Batz-Torp,1076884.06,12.65,21.95,9151d926-1599-4a4b-bce7-5a7371f14932,FALSE,FALSE,Construction,Basic
+"Fahey, Moen and Jakubowski",444449.48,86.92,97.2,b93c6af6-e00b-4892-a738-5c47da6552cb,FALSE,FALSE,Education,Enhanced
+"Morar, Spencer and Mueller",1404575.41,46.49,0.44,04f6e066-6ee1-430c-accf-1d62df83b51d,FALSE,FALSE,Education,Basic
+Spencer and Sons,1028003.91,73.74,19.15,ac642712-4e01-4d8f-a080-dd30eeefd40b,TRUE,FALSE,Public Sector,Basic
+Schuster-Kuhn,885727.75,28.06,89.41,282ebfc0-100d-4ce8-8397-e4b2a0d7dcc7,FALSE,FALSE,Construction,Enhanced
+Lueilwitz Inc,950054.25,84.24,73.71,2d66d595-0bfb-4e7b-99c6-0a8ab0d2af5b,FALSE,FALSE,High Tech,None
+Greenholt Inc,1061334.11,94.73,26.12,8327a0a1-38fa-45d0-8dfd-a39d1f149fcd,FALSE,FALSE,Public Sector,Enhanced
+Rau-Kertzmann,564258.35,-41.76,40.53,7c9401e5-865c-4ace-b999-54d7b505bbba,FALSE,FALSE,High Tech,Basic
+"Runte, Stroman and Kemmer",200405.7,-72.84,52.87,fedca6c8-b63a-49b3-bd6e-de0aa27665a2,FALSE,FALSE,Education,Basic
+"Ratke, Adams and Keeling",1150688.34,81.19,60.35,aa45ce8a-7035-4fe8-a03c-97a01bc78655,FALSE,TRUE,Construction,Basic
+Mohr Inc,187048.9,-44.66,82.51,5f32bd3d-032c-4241-86fe-d597b0ac3e62,FALSE,FALSE,Construction,Enhanced
+Barton-Hermiston,66217.22,-57.16,91.63,0f907c71-0c50-4826-b217-4073ad1e84da,FALSE,FALSE,Education,Basic
+Heller Group,1148359.08,-23.67,52.73,73a6e1c4-0116-465e-9b13-626ae2e7a8dd,FALSE,FALSE,Construction,Enhanced
+Becker-Kulas,1287776.74,-34.51,13.5,ec2c0e60-9a0e-457c-beb0-3e71f3109a40,FALSE,FALSE,Construction,Enhanced
+Murray and Sons,881577.97,45.5,3.07,10aa2718-20af-401c-9e4b-aadac3a9ce45,FALSE,FALSE,Construction,Basic
+Bradtke and Sons,1123006.16,33.01,87.97,2d008d9c-bf8f-4d07-adee-3af6b7a59707,TRUE,FALSE,Construction,Basic
+Marvin-Bernier,902056.39,-71.98,58.88,590606b0-e5f7-4e11-975e-5274b6bc2e31,FALSE,FALSE,High Tech,None
+Gislason-Jones,1310683.0,-27.56,13.65,a0f0b832-1f73-4139-af5c-2136b6ca2478,TRUE,FALSE,Education,Premium
+"Reilly, Daniel and Hane",489542.55,59.8,90.41,387a0298-0ebb-4980-9562-f2b37c07b42f,FALSE,FALSE,Public Sector,Enhanced
+McClure Inc,58466.82,95.72,16.27,8eaf6dd2-4acd-4e5f-8fca-d406eb22f0c8,FALSE,FALSE,Education,Enhanced
+Cartwright and Sons,806717.67,47.84,81.02,d18051ae-d029-4ff9-a227-86d059653c72,FALSE,FALSE,Education,Enhanced
+Buckridge and Sons,220139.88,-37.93,87.23,5e87e93f-ca1c-4e19-86a7-5417d5883272,FALSE,FALSE,Education,None
+Mayert LLC,1436081.54,27.56,75.72,8cd58e55-4069-4293-ba61-638a45971cbe,FALSE,FALSE,Public Sector,Enhanced
+"Kiehn, Jakubowski and Luettgen",1488666.7,44.41,44.05,4c1bd67c-3382-4edc-b063-3a869d5975e8,FALSE,FALSE,Education,Enhanced
+Steuber-Koepp,889617.66,98.27,16.21,448c02a7-5deb-4347-9227-345c8b3f99be,FALSE,FALSE,Education,Basic
+"Heller, Stark and Lehner",403569.78,-26.35,39.03,0c6ce58f-96b4-498a-994b-80a59329649c,FALSE,FALSE,Construction,Premium
+"Ortiz, Green and Ankunding",1080642.81,97.41,92.51,c9f2e4a2-b004-4d87-8c41-f09637d4d54b,TRUE,FALSE,Education,Basic
+Hagenes Group,845367.25,-74.76,21.23,97a41478-4ac7-4127-a2c8-c54b99907fdd,FALSE,FALSE,Public Sector,Enhanced
+Hahn-Weimann,850493.0,-77.75,88.99,6a796ec7-1fb7-4e4e-986d-9d8078392a56,FALSE,FALSE,Education,Basic
+"Pollich, Kiehn and Kuphal",31316.16,-65.81,94.08,afd9a7f0-dae4-48aa-b591-1dfb0a983832,FALSE,FALSE,Education,Premium
+Donnelly-Bartoletti,1109938.39,20.3,18.14,c8869788-bdec-48e4-acf6-73ddddd1ff80,FALSE,FALSE,Construction,Basic
+"Gerhold, Brown and Raynor",433392.37,-66.07,25.41,fddb42fb-085a-40a7-aa8c-4a296f4a4830,FALSE,FALSE,Education,Enhanced
+Harvey-Toy,216451.84,-3.57,30.59,3252794b-093e-4b73-81b8-cef5e2e1744c,FALSE,FALSE,Construction,Basic
+Sipes Inc,1491995.74,26.55,0.61,03db6882-e79e-4ef7-b195-7eaa429afe9c,FALSE,FALSE,Public Sector,Basic
+"Mertz, Larkin and Lehner",624083.53,4.78,46.27,d6453e36-5e0c-4dbe-9435-005bcf9c843a,FALSE,FALSE,Education,Basic
+"Kuhn, Beatty and Thompson",1054749.65,-69.68,7.65,c88f348b-bc13-4eb1-8c72-998cb6b5c792,TRUE,TRUE,Construction,Premium
+Heller and Sons,278658.7,61.33,3.33,b97b0b85-3ea2-43c5-85ea-96da64a37d06,FALSE,FALSE,Public Sector,None
+"Corwin, Fay and Moore",759289.98,41.94,34.65,e8001b92-4ddd-4c5d-96e2-4bf3804f8568,FALSE,TRUE,Construction,Enhanced
+Gutmann and Sons,94857.35,-45.79,70.89,fc79d35f-ae5b-4414-b22a-94edd7baee1b,FALSE,FALSE,Education,Enhanced
+Connelly LLC,1069829.06,-79.78,81.55,3d395efd-00d7-45a6-b3e4-060190ed6901,FALSE,FALSE,Education,Premium
+Carroll-Hodkiewicz,786788.74,-27.83,37.06,98e97e65-da7e-4bda-9b7f-642d58e49592,FALSE,FALSE,Construction,Premium
+Schumm-Jacobi,519718.15,60.7,53.36,3b604bf5-8d82-4b20-9d7b-09b5be73f046,FALSE,FALSE,Education,Premium
+"O'Connell, Little and Rippin",1085474.0,-75.0,76.17,92da7067-b0b8-4b12-8927-67157534de60,FALSE,FALSE,High Tech,Premium
+Hansen LLC,839904.0,6.87,82.81,85678e1e-ac6c-481a-b7f7-0a1ff9d17747,FALSE,FALSE,Education,Premium
+"Hilpert, Hermann and Hegmann",20990.02,-12.49,18.95,4c195b32-6982-4c43-933e-18ef3ddbdf78,FALSE,FALSE,Education,Basic
+"Nader, Nicolas and Witting",1212332.01,-26.35,84.15,1c0dee95-c094-43d8-84b0-3aa1b692c828,FALSE,FALSE,Education,Enhanced
+Legros-Botsford,1278413.72,59.97,93.49,c90f3326-3158-43b3-97e2-022bdfdf2ec0,FALSE,FALSE,Public Sector,Basic
+Watsica Group,503393.69,-62.36,37.38,74f3cdca-cd68-4973-bb18-01be1530bc4d,FALSE,FALSE,Public Sector,None
+"Crooks, Strosin and Larkin",806183.65,-93.45,37.18,eb13ce2e-70b1-459f-ac3e-f681fc6dbaa3,FALSE,FALSE,Education,Premium
+Haag-Frami,464063.78,43.68,43.92,84009545-2666-4942-97a8-e6afc182a2d5,FALSE,FALSE,Construction,Premium
+Roberts LLC,841230.85,-24.46,93.05,ff5db977-e3e5-4497-a377-9353d01b579c,FALSE,FALSE,High Tech,Basic
+"Ferry, Wehner and Gorczany",1473487.21,-38.51,40.62,835008d8-0853-47a0-8032-ca8ac629dad8,FALSE,FALSE,Construction,Enhanced
+"Nicolas, Stamm and Grady",271001.02,85.19,77.41,64e6f222-6d42-4c9a-84a0-c06c74dba88f,FALSE,FALSE,Public Sector,Basic
+Nicolas Group,893134.45,34.01,82.3,725cd45f-ddd3-47d0-8243-8301675408b6,FALSE,FALSE,Public Sector,Basic
+O'Reilly-Kunde,1135130.21,36.43,90.3,7eb730f7-8762-4038-9580-8f5902a302e7,FALSE,FALSE,Education,Premium
+"Weber, Kuhic and Hyatt",1418046.16,91.53,47.9,8b041e65-c18f-481f-95ec-f5cf641a8f47,FALSE,FALSE,Public Sector,Enhanced
+Stehr LLC,1241158.91,-28.35,5.17,70c3d4fe-0336-4a19-a36e-240b6c163e8d,FALSE,FALSE,Education,Enhanced
+"Konopelski, Buckridge and Schuster",1374409.53,49.52,78.63,e72ab6b8-1690-412a-b503-4cf65e4b00e2,FALSE,FALSE,Education,Enhanced
+Crooks and Sons,53399.16,-80.53,3.29,9eab396f-d2a7-4634-8f58-c1ebbc88d07f,FALSE,FALSE,Financial Services,Basic
+Wisoky-Homenick,95055.41,-63.79,69.27,ce4a389d-5d57-441b-be5a-53d2ce41b227,FALSE,FALSE,Construction,Enhanced
+"Schaden, Keebler and Toy",126558.7,89.5,25.52,2c80d691-c018-4fbb-8a89-752b582ec5f9,FALSE,FALSE,Financial Services,Premium
+Heller-Medhurst,1498398.44,-41.68,4.48,2dd670ab-afc4-4403-941a-ab3eb8357f05,FALSE,FALSE,Construction,Premium
+Jacobs and Sons,1288792.96,47.53,5.31,5d1d7589-033b-464a-956a-37285d64f872,FALSE,FALSE,Construction,Basic
+Collier-Greenfelder,398406.94,95.31,80.66,46db2d29-902d-4715-86f5-f332354d2fdd,FALSE,FALSE,Public Sector,Enhanced
+Stanton and Sons,924714.8,-54.59,91.04,90065188-c566-40e1-acac-5f4c63436c76,FALSE,FALSE,Public Sector,Basic
+Effertz and Sons,908434.0,-51.24,19.75,75ac92dc-715b-4614-8ef5-950e8674ce03,FALSE,FALSE,Education,Basic
+"Herman, Rosenbaum and Streich",981905.55,82.71,1.97,1119595f-a1ff-4899-ae06-a95db0af2535,FALSE,FALSE,Education,Premium
+Johnson-Streich,984539.67,13.81,56.16,4a6ca6e0-89cb-4559-9f31-58df2df2756c,FALSE,FALSE,Education,Basic
+"Hessel, Ernser and Green",1110554.21,-67.0,50.27,b0bad13c-751e-49bf-a2ae-13a324b82228,FALSE,FALSE,High Tech,Premium
+Gottlieb and Sons,1234438.0,-65.93,81.97,1d5bc394-0895-483d-9443-9fd050d29881,FALSE,FALSE,Public Sector,Basic
+Volkman Inc,58109.5,-13.0,15.46,7371475f-c741-4761-80ff-7a1e69a381e0,FALSE,FALSE,Education,Enhanced
+Ratke LLC,517591.0,-0.26,20.61,948ca7be-d79c-4d33-b2fa-59800d021bb8,FALSE,FALSE,Education,Enhanced
+Thiel and Sons,755303.19,-32.1,75.95,73ac59a5-4550-4817-b42b-485deb9848e4,FALSE,FALSE,Education,Basic
+Bosco-Tromp,227993.73,-14.78,5.32,dc2d41e1-fdc1-451b-90e3-9693702071bb,FALSE,FALSE,Education,None
+Rippin-Rau,836112.61,87.92,46.14,3a7c4878-b550-462d-a442-f7b5509668a5,FALSE,FALSE,Construction,Basic
+Ebert Group,989674.89,83.65,48.82,438774ca-5839-446f-a0c5-57f9db6645ac,FALSE,FALSE,Construction,Basic
+"Wisozk, Denesik and Cummings",348266.98,16.89,37.72,add519ff-35ca-4e82-9548-ce7b1489ab95,FALSE,FALSE,High Tech,None
+"Hayes, Klein and Ondricka",298329.08,66.28,0.44,1040a06f-19c3-42d8-8568-d08fbad16625,FALSE,FALSE,Construction,Premium
+Hickle LLC,147163.21,41.36,63.42,f5152922-5995-4485-a5d3-2192af465d16,FALSE,FALSE,High Tech,Basic
+Lockman-Shanahan,820011.6,12.16,31.25,f2639bda-bca1-48d5-b997-6eb3584dfbcf,FALSE,FALSE,Construction,Enhanced
+Batz-Mertz,690029.0,68.8,41.82,45014102-2eb9-4bab-9f19-b7f5437d77fd,FALSE,FALSE,Education,Basic
+Padberg LLC,205413.16,-35.9,67.16,168336e6-84fb-4816-b2e4-e26b65a288b1,FALSE,FALSE,High Tech,None
+Gutkowski LLC,911168.28,-98.41,94.02,28d5133d-439d-4d24-b09d-819073dd3842,FALSE,TRUE,Education,Basic
+Kassulke-D'Amore,826814.05,-15.62,3.89,7960bc62-2493-42df-9100-5c9dd147a08d,FALSE,FALSE,Public Sector,None
+Reilly Inc,1343651.81,74.52,40.92,b6795555-5dcb-4ad1-892a-7bb3e3d55172,FALSE,FALSE,High Tech,Basic
+Sanford Inc,97529.09,-51.33,4.82,2c8e1b6a-2238-41b6-b4c6-347a8fc71507,FALSE,FALSE,Construction,Enhanced
+"Nicolas, Hodkiewicz and Senger",631355.92,42.35,69.99,453b9af7-ca9b-4758-b882-6e0c73f42f94,FALSE,FALSE,Education,Basic
+"Luettgen, Marquardt and Heller",1386307.82,84.7,83.17,31c1f485-8c5e-4072-bd0e-f1edd0b33b92,FALSE,FALSE,Construction,Enhanced
+Nitzsche-Wiegand,594255.47,11.85,18.97,7065357b-f805-4e9c-ae94-83e97b58e1b2,FALSE,FALSE,Education,Enhanced
+"Waters, Labadie and Hudson",1346758.91,22.24,66.56,83090293-8ac2-442b-a212-c6ae79be2333,FALSE,FALSE,Construction,Basic
+VonRueden Inc,130771.1,-85.44,23.55,634bf58e-336c-4530-9d19-7de51018e41b,FALSE,FALSE,Education,Basic
+Effertz-Bednar,575612.73,-30.88,53.13,86261d40-23cb-4715-adbf-a405353ed1fb,TRUE,FALSE,High Tech,Enhanced
+Kessler Group,1394399.16,0.94,48.69,d9ca6a19-0198-4061-a856-b5db22cf7b65,FALSE,FALSE,Financial Services,Basic
+Morissette Inc,841402.18,-53.2,22.08,aa6ecaf1-e897-4812-bf88-98c2752d9da0,FALSE,FALSE,High Tech,Premium
+Gleason Group,1088433.21,-6.22,35.07,2729f2ce-c530-42f1-8ad4-f1ae024657b0,FALSE,FALSE,Public Sector,Basic
+Eichmann and Sons,552788.55,43.81,63.33,4bfe6d7e-179c-4b19-bc67-89d98c94be5d,FALSE,FALSE,Public Sector,Premium
+"Tromp, Farrell and Corkery",596804.31,-36.18,76.58,ae1b3efb-2aea-46ec-9799-c84aae406961,FALSE,FALSE,Public Sector,Basic
+Kub-Leannon,1356680.43,-15.48,35.24,0d44707e-1e58-448b-909a-9fdb0183b0c7,FALSE,FALSE,Education,None
+Leannon LLC,1038940.13,-35.25,76.12,b431fca7-577a-43d3-9a5c-faf36b740de8,FALSE,FALSE,Construction,Basic
+Pollich-Stoltenberg,981779.67,69.84,9.92,030b39c9-8058-4e0f-a63d-cb7208afae74,FALSE,FALSE,Construction,Basic
+"Homenick, Schmidt and Zboncak",357147.32,20.1,39.56,77ee49c5-b04f-4d55-8bdc-5ab1380d5723,TRUE,TRUE,Financial Services,Basic
+O'Conner-Ferry,444261.81,77.89,22.52,470733bd-dc0c-4028-b63c-4fcc38e56adc,FALSE,FALSE,Education,Basic
+"Kirlin, McKenzie and McLaughlin",728083.11,-90.64,61.76,9093441b-ddc6-4ebe-bd48-2ea4fee08f8b,FALSE,FALSE,Financial Services,Basic
+Rutherford-Wilderman,700929.0,55.46,79.12,bbc6dcdc-dca7-43fb-88be-40bda9febce0,FALSE,FALSE,Construction,Basic
+Davis-Yost,1412656.09,-49.58,71.54,73a7363e-3944-4a2c-9c3b-ac30d64be7e5,FALSE,FALSE,Education,Basic
+"Kshlerin, Bartoletti and Rice",1390055.31,-29.14,12.82,e957e1f2-d715-48fd-a1bb-4200ab4b2fdd,FALSE,FALSE,Education,Basic
+Maggio-Effertz,374600.23,-86.56,56.1,acdb779b-3026-435c-9ca0-1c3942c3dd3f,FALSE,FALSE,Public Sector,Premium
+"Gleichner, O'Hara and McCullough",1138709.58,-38.97,61.35,3d35a533-47c9-4c07-a5ba-8858bec4651f,FALSE,FALSE,Education,None
+Trantow-O'Conner,1220732.91,33.58,10.7,bc8cb5e6-1e25-4691-ae94-88ba9ee11365,FALSE,FALSE,Public Sector,Enhanced
+Torphy-Gutmann,60911.34,16.79,77.83,b2651d8d-ec01-4684-a18e-61a8c21af881,FALSE,FALSE,Education,Basic
+"Wilderman, Wolff and Bartoletti",1197378.54,-96.57,47.17,090c1ab0-9be5-4978-827d-b5e1342227f1,FALSE,FALSE,Education,Enhanced
+"Macejkovic, Labadie and Cassin",1036890.46,-89.68,15.01,68e713ad-3dd0-4769-9654-a83cdb6d439f,FALSE,FALSE,Construction,Basic
+"Mosciski, Dickinson and Hagenes",294040.6,-34.96,19.92,550bff85-3458-410f-8e62-edea6974ab0d,FALSE,FALSE,Education,Premium
+Davis Group,502292.05,18.4,52.17,532c547f-e0cc-4d10-b35a-b1f2cbf872f6,FALSE,FALSE,Construction,Basic
+"Schultz, Willms and Wehner",88472.08,12.64,39.5,feddf386-4fcf-4b72-ad67-71a3909a0055,FALSE,FALSE,Public Sector,Basic
+Kihn-Schuppe,1077567.0,79.23,23.7,9bc2d33f-73a6-48de-8a65-febf34e39db6,FALSE,FALSE,Education,Basic
+"Morissette, Hoppe and Gottlieb",1179508.2,4.35,94.76,ccfb7a4e-7336-4ea9-9f97-04d08f52321c,FALSE,FALSE,Education,Basic
+"Jaskolski, Brown and Considine",741782.42,73.46,30.09,9b0a1c44-3ea4-42d7-b14b-b13ae1c24398,FALSE,FALSE,Public Sector,Basic
+Sanford Group,1339373.78,-57.42,83.43,087f971f-6d64-416f-a8d9-37c01670a4e7,FALSE,FALSE,Financial Services,Basic
+Rutherford LLC,1482990.4,14.47,39.75,99a04b87-750b-4abd-83b2-70eaeaa00e80,FALSE,FALSE,Public Sector,Basic
+Fahey LLC,395056.66,-4.32,75.46,e557a6d1-2914-4004-afc4-73c2ad66e39a,FALSE,FALSE,Public Sector,None
+Bernhard LLC,120282.0,70.72,20.4,a5232e12-e110-40be-a020-0f161b6aec36,FALSE,FALSE,Education,Basic
+"Nienow, Nikolaus and Greenholt",920901.36,-68.44,5.94,3b5e982c-1b69-465f-8c08-26cfc327442b,FALSE,FALSE,Construction,Basic
+"Schoen, Abernathy and Kiehn",819662.6,28.23,5.57,6f89d9e6-6294-47b0-aef0-574c5072f06c,FALSE,FALSE,High Tech,Basic
+Rogahn Inc,202654.9,92.01,45.57,5a007ece-5479-457c-bb1d-53c1696cbde6,FALSE,FALSE,Education,None
+"Koch, Reynolds and Schowalter",818453.29,3.06,88.19,216bf62c-fbfb-49e6-8ac2-99a905bcaa86,FALSE,FALSE,Construction,None
+"Hoppe, Marks and Hackett",421091.25,85.05,16.78,0dbf2be7-63b2-4f2c-a609-a2e2a778dc09,FALSE,FALSE,Education,Basic
+"Braun, Powlowski and Hyatt",1459412.52,58.85,73.06,76cc9b5d-1c9e-4c6c-b3f5-14b568ae92e7,FALSE,FALSE,Education,Basic
+Zemlak Inc,142078.56,1.56,77.71,33a053cf-62ab-43a8-a3bd-d2a86977d13b,FALSE,FALSE,Education,None
+"Turcotte, Jaskolski and Spinka",590219.95,-17.62,18.85,72eacab6-f6ad-4028-9eeb-4869eabb0045,FALSE,FALSE,Financial Services,Basic
+Hamill-Schumm,324603.82,-86.41,16.95,f172912e-619b-400e-9a09-cf4a3656d5ab,FALSE,FALSE,Construction,Enhanced
+Monahan LLC,65244.75,10.83,72.13,825123dd-1377-4798-a5ae-ebc53f0a95f5,FALSE,FALSE,Public Sector,Enhanced
+"Lang, Trantow and D'Amore",673804.52,-41.13,33.58,8b05a2e2-f921-4d49-b104-53d1c373f7eb,TRUE,FALSE,Financial Services,Enhanced
+Buckridge Group,329304.72,-6.65,98.67,ff9acf27-5a59-48c8-aa2e-6e5aec481242,FALSE,FALSE,Public Sector,Basic
+"Krajcik, Blick and Bergnaum",408136.65,71.07,88.71,412d6b8a-7bbe-4fca-98a4-00bc7f4a5c6d,FALSE,FALSE,Construction,Basic
+"Grant, King and Grant",128395.66,-31.57,9.32,e4d904cd-e1ab-4625-a5a3-6531be63cb60,FALSE,FALSE,Public Sector,Basic
+"Block, Keebler and Murazik",1207991.39,-44.96,19.55,40ae8eda-01cd-4ff6-b2b2-9fe8ed59cd76,TRUE,FALSE,Construction,Premium
+Upton-Ziemann,1263231.18,46.41,29.37,75cef7bb-6ca0-4578-8507-4cfa34d04568,FALSE,FALSE,Education,Basic
+Murphy-Lind,351021.0,42.68,94.45,405dd836-4f28-44e5-a4a4-f24ef9a4ce96,FALSE,FALSE,High Tech,Enhanced
+Mueller and Sons,588265.16,-35.53,11.76,dd2d3458-d50c-4559-9fcf-c6d94b32f140,FALSE,FALSE,Public Sector,Basic
+Blanda Inc,1319319.0,-74.71,36.48,7f9959c8-af20-41d5-92a0-0273879d3886,FALSE,FALSE,Education,Basic
+"Hoeger, Heller and Abernathy",818102.68,2.15,60.24,b54d00c3-f689-4cc1-ae9c-b3863989fe2e,FALSE,FALSE,Public Sector,Enhanced
+Wolf-Muller,269304.14,28.65,47.34,d6c74187-1e82-47a6-8d5f-8c2592ba3a4d,FALSE,FALSE,Education,Enhanced
+Eichmann-Hoeger,587020.68,-7.0,28.64,ff50195a-97a2-48fe-8b9c-59750db20e10,FALSE,FALSE,High Tech,Enhanced
+"Torp, Nolan and Renner",949857.54,67.96,66.58,acdfc00a-d4e8-408d-a836-e824dde0a703,FALSE,TRUE,Public Sector,Basic
+Runte Group,1334141.48,32.6,93.29,4020c9ed-ff9a-4633-8850-57286f68e668,FALSE,FALSE,Financial Services,Premium
+"Koelpin, Jacobs and Nicolas",1483107.6,99.62,94.31,7a768067-52ad-4a1d-83f1-a92398a3a0ae,FALSE,FALSE,Education,Enhanced
+"Murphy, Douglas and O'Reilly",1442460.0,-56.06,51.24,a6a7e7e1-b409-47cb-bbbb-6c5bcb832523,FALSE,FALSE,Education,Basic
+Braun Inc,921698.8,-96.85,59.66,4aec2aae-f5d1-4065-b220-77bf753c27c9,FALSE,FALSE,Construction,Basic
+Gislason Group,515070.62,-22.17,66.27,a358c0ab-ccb3-4d05-bde5-615ebfc89483,FALSE,FALSE,Construction,None
+Christiansen-Beier,445682.4,64.51,8.62,6b4020c0-40da-4049-90fd-e100ea4fc7dc,FALSE,FALSE,Education,None
+Jaskolski-Kovacek,80993.9,41.24,48.1,caba29fa-b202-4a4c-a03e-2693f8b1e2d7,FALSE,FALSE,High Tech,Enhanced
+"Schmeler, Dicki and Franecki",980142.08,-66.05,33.47,3d31541b-de08-49fc-b0d1-335835975bef,FALSE,FALSE,Construction,Basic
+Breitenberg Inc,521337.0,-91.69,46.14,06d68cd8-3866-4266-bef4-ab15a1e7735d,FALSE,FALSE,Construction,Basic
+Wilkinson-Murazik,804293.24,-59.69,7.29,12f66c24-1ece-40ca-86d8-3cc512224ff0,FALSE,FALSE,Public Sector,Enhanced
+Johnson and Sons,895507.0,87.23,1.08,e53da19b-5140-4a8e-979f-ed3b3d05593d,FALSE,FALSE,Construction,Basic
+Towne and Sons,347527.39,82.31,38.93,0599e6dd-5be1-4706-8019-8e0ffc98d766,FALSE,FALSE,Education,Basic
+"Gorczany, Deckow and Wintheiser",293628.96,-20.71,54.76,9a4f65a4-1c27-476e-8313-62ee294c8a43,FALSE,FALSE,Construction,Premium
+Gerhold LLC,787817.41,-9.32,1.55,80e0696a-dff4-451f-8d2c-019598438011,FALSE,FALSE,Education,Basic
+Rolfson-Brakus,1335907.85,-83.54,93.65,6cea4aad-c4de-4154-baca-b2740fa1c57b,FALSE,TRUE,Education,Premium
+Braun-Labadie,337128.14,-68.96,29.65,2baed6b9-6696-4d5a-9cc7-d178cb6e7c24,FALSE,FALSE,High Tech,Enhanced
+Wolf-Rohan,5597.57,-29.74,65.12,920328bb-83c6-4f55-9c76-acf91f913af0,FALSE,FALSE,Education,Basic
+Beer-Corwin,1266200.5,-62.13,49.84,9c73655f-1960-49da-af95-abea5544b159,FALSE,FALSE,Public Sector,Premium
+"Champlin, Heathcote and Kuhic",781217.63,-2.79,45.11,96cff5c6-04d8-480b-b017-de863d42cb8e,FALSE,FALSE,High Tech,Enhanced
+Rippin-Altenwerth,999108.91,84.55,35.74,dc21140c-fdd2-4307-98b4-fe979fd672d5,FALSE,FALSE,Public Sector,Enhanced
+Bruen-Dare,611191.08,-20.1,41.11,8aa979e6-ea4a-44d6-af31-27a43b4a9c83,FALSE,FALSE,Public Sector,Enhanced
+Walker and Sons,255958.37,-64.02,95.51,c4478d38-8a81-4b38-8fbe-b269643d445c,FALSE,FALSE,Financial Services,Premium
+"Morissette, Klein and Mertz",405303.17,71.43,56.54,e0021083-8924-4e7f-bdb9-2d0542d29591,FALSE,FALSE,Education,Premium
+"VonRueden, Greenholt and Beier",493583.78,-27.35,14.68,397bc063-ddca-4354-9961-404607fac2a0,FALSE,TRUE,Public Sector,Basic
+Mosciski-Ernser,738012.32,66.32,59.45,313ba445-f0e3-49db-aed6-2e42e00c1ff8,FALSE,FALSE,Education,Basic
+Crooks and Sons,1028473.72,-77.86,61.55,3dbb0666-1ced-42bc-8a43-4adaaea1e2f5,FALSE,FALSE,Public Sector,Basic
+Okuneva-Barrows,688672.47,-33.49,25.87,de0634a4-c1f7-4840-a33e-61d472708727,FALSE,FALSE,Construction,Basic
+"Murphy, McLaughlin and Gleason",322933.66,1.83,47.4,62157083-6eaf-4006-b896-263d6ac54d76,FALSE,FALSE,Construction,Basic
+Hagenes LLC,1163585.27,49.53,71.29,7f924e8a-5f8e-44b6-a151-23ad7ab76fe9,FALSE,FALSE,Public Sector,Basic
+"Fahey, Franecki and Hoppe",927454.82,-66.37,58.5,5c4f1bf9-14fc-4e58-abdb-ea43be5d43e4,FALSE,FALSE,Financial Services,Basic
+Cummings LLC,1251733.52,-24.97,17.13,2c7fa6b6-2a16-4957-adb2-655838b0c6b8,FALSE,FALSE,Education,Premium
+Metz Group,1395060.99,-84.8,86.6,a7b5cdae-60d4-4433-adf7-62c688b59302,FALSE,FALSE,Public Sector,Premium
+"Conn, DuBuque and Strosin",1000399.57,90.71,25.81,79539ebc-be23-49d4-9860-0821046932f1,FALSE,FALSE,Financial Services,Basic
+Senger LLC,752679.06,-93.77,43.68,4936cdd0-6a6b-45e6-9107-1f06f0daabcb,FALSE,FALSE,Public Sector,Enhanced
+Mayer LLC,154222.89,-77.82,77.79,9b3014a7-eb52-4691-9099-ffbefc394c8a,TRUE,FALSE,Construction,Premium
+Huels and Sons,441169.85,20.67,44.5,0990099b-2ba0-4b5c-8db6-73ff98ce3a54,FALSE,FALSE,Public Sector,Basic
+Von and Sons,1079839.0,-98.49,13.76,00131292-63d9-4bba-98ce-0a08d7521784,FALSE,FALSE,Financial Services,Premium
+Volkman and Sons,1258771.66,-54.99,1.41,0b85b453-809f-41e0-ad61-fa8a506e5b57,FALSE,FALSE,Construction,Basic
+Champlin and Sons,868055.48,40.42,85.09,f773ce17-d7ba-422d-9e57-8cf7e21f1e5c,FALSE,FALSE,Education,Basic
+Greenholt Inc,658905.52,63.42,70.2,54e4d274-c91c-4c88-b5fb-91530019cd25,FALSE,TRUE,Education,Basic
+Bechtelar LLC,1135903.6,-40.6,66.22,f4b89bf2-705b-4bb1-bff6-88fbdc4ab007,FALSE,FALSE,High Tech,Enhanced
+"Mertz, Goodwin and Rice",559210.24,-19.29,23.43,7071a5bb-3c8f-4161-a34f-3214d1619e1c,FALSE,FALSE,Education,Enhanced
+"Bernier, Blanda and Lueilwitz",221683.42,97.51,93.93,9730f38d-60d6-4026-bb32-6a60f693c214,FALSE,FALSE,Education,Basic
+Pacocha and Sons,1249714.92,-58.72,91.55,ba334bc7-887f-4aec-a477-26113303d75f,FALSE,FALSE,Education,Basic
+Bins-Kshlerin,341038.93,63.32,93.59,76eeec21-a1f5-406e-b8f0-dd5107fad1df,FALSE,FALSE,Education,Basic
+"Shields, Schinner and Hansen",948772.0,89.62,56.54,952f5af7-43ae-437c-8693-59dbb91150aa,FALSE,FALSE,Public Sector,Premium
+"Abshire, Lowe and Orn",585581.8,-48.12,21.02,9ec4b6d8-7951-46ad-84c3-60f334c668da,FALSE,FALSE,Construction,Premium
+Pacocha Group,1464574.16,66.99,41.77,bc203b0b-9adf-4a27-9903-79a00f179263,FALSE,FALSE,Education,Enhanced
+"Bednar, Friesen and Ebert",420862.82,20.83,27.85,44596781-9a58-494f-a647-2ca6f01f9a23,FALSE,FALSE,Construction,Basic
+Hamill-VonRueden,756013.72,24.28,20.05,3989b9f3-bb89-4e05-902a-0ca25e5bbe42,FALSE,FALSE,Construction,Basic
+Sipes-McLaughlin,1228039.59,-32.79,82.88,8436b0e9-f903-47d1-bd96-c655a0a4d3f1,FALSE,TRUE,Education,Enhanced
+"Kuhlman, MacGyver and Hermann",1393739.94,-94.66,57.28,d940eead-af6a-423a-b1e8-78b4bc178cf8,FALSE,FALSE,Public Sector,Enhanced
+"Legros, Hoeger and Rempel",1266611.11,61.88,70.37,4646a4a1-7ec3-49c5-be72-b9221395edd0,FALSE,FALSE,Public Sector,Basic
+"Murphy, Ziemann and Ritchie",502820.3,-19.93,54.21,7919573e-2bb3-48b9-b21b-13eafb70fe56,FALSE,FALSE,Construction,Basic
+McDermott-Hoeger,675442.0,-76.51,98.22,ac64b7b4-39c8-4526-9182-6a8e15c43aa0,FALSE,TRUE,Education,Basic
+Ernser-Marquardt,219504.11,-65.11,56.93,3676d809-4b95-4829-a90b-ef0980874d46,FALSE,FALSE,Construction,Basic
+Kuhic-Lueilwitz,299702.09,25.65,13.24,83022f12-3c26-45cd-adae-944d71db5328,FALSE,FALSE,Financial Services,None
+Gleichner-O'Hara,180845.07,-22.05,28.03,1fe154fa-030c-494e-84d4-707a533060c3,FALSE,FALSE,Financial Services,Basic
+"Heathcote, Batz and Kessler",546622.38,87.42,45.21,c4af39a6-e145-46f5-8883-a271444e5367,FALSE,FALSE,Construction,Basic
+Quigley LLC,1317713.08,-93.92,94.16,8e8ba468-7e30-436b-a6ee-854a2c4ad851,FALSE,FALSE,Financial Services,Enhanced
+Gusikowski-Wiza,1361841.39,-15.94,73.46,d4acb64f-1539-495f-82c4-7798dc583828,FALSE,FALSE,Public Sector,Premium
+"Walter, Armstrong and Daugherty",746271.67,-27.4,48.69,6e412c41-1036-4959-9be8-f35e2f66efdf,FALSE,FALSE,Education,Basic
+"Weissnat, Farrell and Batz",521800.8,98.79,53.44,f586d00a-37d0-47bd-95e2-a64f9c6a1125,FALSE,FALSE,Education,Basic
+Hammes Inc,463206.02,-37.91,35.02,9bbfe7b1-6216-4775-bf83-f64b0eb14b68,FALSE,FALSE,Education,None
+"Hand, Stroman and Torphy",68054.64,51.28,1.28,e94b8abf-9034-4b0c-b10a-053e57fe53da,FALSE,FALSE,Education,Basic
+"Hoppe, Anderson and Schuppe",401238.61,65.68,37.52,d43a0698-be7e-4dca-9813-50a4f970aaea,FALSE,FALSE,Financial Services,Premium
+Brakus-Bernier,871868.43,-55.18,50.64,29e4f5f2-0f90-4475-9cab-b93ff4742ed5,FALSE,FALSE,Construction,Basic
+"Smith, Feest and Harris",986527.5,-26.52,98.2,e1a8279b-64bc-4133-9a01-f7e92211ab7e,FALSE,FALSE,Education,Basic
+Blick LLC,1452124.65,67.41,72.49,fbd38dbc-3495-435f-9dc1-f5c52cdcac63,FALSE,FALSE,Construction,Basic
+Koelpin Inc,129097.82,-51.54,7.94,473f1937-cc7c-46f8-8582-f1d17767a50f,FALSE,FALSE,Construction,Premium
+"Rice, Weber and Greenholt",202506.33,-64.6,74.87,e78eed52-07e0-4712-9f8e-b6105be611ee,FALSE,FALSE,Financial Services,Basic
+Effertz-Becker,193545.9,97.09,93.36,9c991823-fa43-47c1-afe5-35cf9f658a56,FALSE,FALSE,Public Sector,Premium
+Windler-Jacobi,442805.27,-15.8,0.18,a79c7eba-905d-4bf3-b8e9-fe49c7e29f23,FALSE,FALSE,Education,Basic
+Stracke Inc,645608.0,62.54,42.72,6ab95fa4-8c09-48a5-a3fd-a6da25bc832e,FALSE,FALSE,Education,Basic
+Reilly-Rau,842232.63,5.27,92.95,52cca4a6-a4e0-48eb-b038-d7fb91d21167,FALSE,FALSE,Public Sector,Basic
+Kulas-Wisozk,1248597.0,28.99,89.3,e66c5256-c340-4a7c-9deb-5353212221eb,FALSE,FALSE,Construction,Enhanced
+Krajcik-Jacobson,1166439.49,-5.94,18.08,d5419bc7-2e97-4035-b645-7a626f615979,FALSE,TRUE,Education,Basic
+Beier LLC,159617.19,50.94,64.34,b4679181-2a8b-4791-a779-20e9bbddba72,FALSE,FALSE,Public Sector,Premium
+Upton-Nolan,39913.78,-79.15,97.16,b8399b7d-415a-4e72-8650-ee6ddf7993e2,FALSE,FALSE,Construction,Enhanced
+"Heidenreich, Graham and Ledner",391368.43,-41.14,91.86,ef2413ca-2bfe-45c0-a1af-5cf054745b18,FALSE,FALSE,Construction,Enhanced
+"Bartoletti, Bauch and McClure",900085.0,27.53,88.59,fb643291-ec62-4928-b1fd-214b5907fda9,FALSE,FALSE,Public Sector,Basic
+Abbott and Sons,889947.53,20.16,75.34,6da77709-3b13-47eb-8d3f-31f968482de0,FALSE,FALSE,Education,Premium
+Larson-Aufderhar,1117864.02,-43.53,71.78,51dc764c-9461-4adc-beda-0fbd8bdc8c22,FALSE,FALSE,Construction,Basic
+"Barrows, Greenholt and Cummerata",479114.0,-24.79,13.12,5b02254d-100b-4ef4-bff5-94a2e99e8453,TRUE,FALSE,Education,Basic
+Torp Group,790017.59,-46.84,15.55,0e146416-914b-4042-bbc9-e32cd4df3750,FALSE,FALSE,High Tech,Basic
+Hahn Inc,1371037.42,83.14,38.09,2b0a0784-8447-43c8-aee7-a7b79fcc1677,FALSE,FALSE,Public Sector,Premium
+Lind and Sons,565726.09,-93.23,20.36,b0bf21aa-b9d7-40e9-99ee-4efdf5a81489,FALSE,FALSE,Public Sector,Basic
+"Lesch, Predovic and Pagac",1067748.01,-29.22,15.37,ede70428-c05a-4541-95e8-9b29f7a10580,FALSE,FALSE,Construction,Basic
+Schaefer Inc,1001480.83,-75.36,13.17,0baff9c3-f2c6-4329-bdfb-bda29200eca2,FALSE,FALSE,Education,Premium
+Harvey-Glover,504658.74,-53.96,5.35,e8870822-8374-45b3-b899-98385dd47d59,FALSE,FALSE,Education,Premium
+Fadel and Sons,244287.59,-6.75,25.25,b3acea43-4184-4ccf-b378-f5705a9854b9,FALSE,FALSE,Education,Basic
+Gerlach-Williamson,991688.06,-69.28,80.17,08d7cb76-14b5-482e-be67-4d965f3334b5,FALSE,FALSE,Financial Services,Enhanced
+Glover-Maggio,253398.91,-82.5,21.02,45f0b6a5-22a6-4adc-aaf5-f42a64fe89ae,FALSE,FALSE,Education,Basic
+Goyette Inc,412353.65,15.83,66.06,8f89697c-cf3b-4ee2-8f91-6874ace92a36,TRUE,FALSE,Construction,Basic
+"Okuneva, White and Rohan",1141868.12,-51.72,38.02,54eae8ab-9b4a-4820-b3df-f23bba388bd4,FALSE,FALSE,Public Sector,Enhanced
+"Friesen, Schroeder and Wyman",282084.35,-99.36,21.15,62cba742-288b-4282-8b49-399e0789058a,FALSE,FALSE,Construction,Basic
+Kemmer LLC,312645.16,69.75,85.09,600b0a1f-3803-41da-9fe1-cea5e6a73ff8,TRUE,FALSE,Education,Basic
+Herzog-Carroll,93535.61,88.94,87.72,85f68627-79da-41ae-bc72-249c25c643b4,FALSE,FALSE,Financial Services,Basic
+"Kassulke, Fritsch and Bins",1200850.73,-41.24,63.49,5c512423-dd2c-4b44-b26f-30a527656890,FALSE,FALSE,Construction,Premium
+"Dietrich, Brekke and Fritsch",761183.72,28.69,80.25,4150d757-f578-4f9b-aced-3959ed844fbe,FALSE,FALSE,Construction,Enhanced
+Hills LLC,861297.97,-13.56,2.16,3e0226e8-207c-493f-ad99-2734d77e2abb,FALSE,FALSE,Public Sector,Basic
+"Greenfelder, Schuster and Walker",707072.9,-67.64,66.6,c3a37e80-adf5-4e04-affc-2fb869d18de4,FALSE,FALSE,Education,Enhanced
+"Schneider, Kuvalis and Stark",680697.55,63.44,47.86,9d6dff71-178a-41ee-92df-75ab1a2973c8,FALSE,FALSE,Education,Basic
+"Jones, Bogan and Yundt",816540.31,-78.77,37.37,9fd8d4f7-9950-4cc3-851a-80587363402a,FALSE,FALSE,Education,Enhanced
+"O'Kon, Franecki and Ward",793083.49,4.2,69.94,b3e917b2-de47-4047-9e2d-95e673ba0c1c,FALSE,FALSE,Construction,Premium
+Luettgen and Sons,437198.28,31.45,43.58,a32ef888-faba-442f-acae-b6577ba245a2,FALSE,FALSE,Financial Services,Enhanced
+Aufderhar Inc,1318072.76,46.01,54.28,10457ff2-a102-4ad2-90f8-28aaa2756ec2,FALSE,FALSE,Public Sector,Basic
+"Jacobson, Purdy and Schowalter",1474791.0,-49.34,74.22,82bd1b2e-1a0f-4f86-8cdc-44089d985912,FALSE,FALSE,Financial Services,Basic
+Becker-Lind,777177.86,93.19,5.04,f5647165-a39b-4808-b793-cfb31eef2d85,FALSE,FALSE,Construction,Basic
+"Feil, Olson and Thompson",989784.71,14.66,85.02,b7d45ad6-740c-4171-b114-d249d8e638b3,FALSE,FALSE,Education,Premium
+Wolf LLC,672194.27,53.47,44.14,4871abf9-ac28-4e7b-acde-7ab6562f06aa,FALSE,FALSE,Education,Enhanced
+Morissette-Herzog,66874.16,-10.09,4.08,b569417d-4cbc-4ed2-bf73-d3952d043aa2,FALSE,FALSE,Public Sector,Basic
+Bode Group,1442981.0,-28.98,1.4,1ba68b0e-4cf3-4b6f-b2a7-eb17adac5889,TRUE,FALSE,Financial Services,Enhanced
+Keeling-Moen,328248.94,37.3,42.31,858d9c66-3b45-4300-8498-e0e85a7bd648,FALSE,FALSE,Construction,Basic
+Heidenreich Group,1350882.96,-3.61,72.7,d8c7d068-2c02-4629-ad8f-51f4eeca7233,FALSE,FALSE,Construction,Basic
+Quigley and Sons,365927.54,-48.28,61.4,154c4d88-6f31-418e-bd91-eb7383389c57,FALSE,FALSE,Education,Basic
+Zemlak Inc,714798.34,28.12,7.94,32cbc0de-b7d1-4801-8c83-980c3a486112,TRUE,FALSE,Education,Basic
+Becker-Breitenberg,1461313.92,1.43,38.32,da58761c-277c-4215-aa32-77557577ea8f,FALSE,FALSE,Construction,Enhanced
+Hand-Klein,586294.98,29.38,4.61,f7b74adc-8f1a-4a0d-9b32-43801912a87c,FALSE,FALSE,Public Sector,Premium
+Heidenreich-Hagenes,1357292.99,79.1,45.04,d912a002-2cec-40d7-8c9c-b1bf4315effc,FALSE,FALSE,Construction,Basic
+Crist-Weber,262858.3,2.25,43.61,49c2e090-11ca-41d4-884f-3964d6df2621,FALSE,FALSE,Education,Basic
+Cummerata and Sons,704562.81,98.57,82.72,077d7ccd-a557-46f7-96a4-a95ea2f25573,FALSE,FALSE,High Tech,Basic
+Ortiz LLC,1074236.19,-17.14,34.48,e48fc741-3dae-4268-a73d-b411923c584a,FALSE,FALSE,Public Sector,Premium
+"Herzog, Emard and Keebler",417453.86,-41.44,44.45,3025e048-8d4c-4840-bd27-8892e87d1293,FALSE,FALSE,Education,None
+Barrows LLC,1295354.67,7.73,4.2,a083552e-0b8e-4054-9718-55b77bf9d615,FALSE,FALSE,Education,Premium
+Gusikowski-Torphy,836007.71,-91.16,47.9,6efcff36-2742-4b8c-b3a9-4626dbe53254,FALSE,FALSE,Construction,Premium
+Mosciski-Stark,264958.14,-8.96,29.64,7917a6e1-4968-471e-a8c0-ffecebc272ea,FALSE,FALSE,Public Sector,Basic
+"Johns, Mosciski and Dicki",878002.65,4.2,5.05,4ffe41f7-3169-457d-9790-8ce207c3170e,FALSE,FALSE,Education,Enhanced
+West-King,1293817.11,-49.14,90.01,204e74c8-2d43-4b6a-932c-0dfb0285b980,FALSE,FALSE,Construction,Basic
+"Krajcik, Gibson and Zemlak",1113745.06,-55.76,15.31,ad37a6f4-9c99-4f4d-ac71-8946d58edb96,FALSE,FALSE,Education,None
+"Lueilwitz, Cole and Lowe",1413441.13,9.16,19.28,28482c4f-dbcc-46c8-9206-1b8a86c62251,FALSE,FALSE,Financial Services,None
+Marvin LLC,868822.97,-71.91,2.15,cdb8a49c-6120-48f5-8ece-f0c5eb2b8785,FALSE,FALSE,Public Sector,Basic
+Little and Sons,935621.06,-10.78,11.51,3cf53abf-9090-4d08-a010-1bbe69bfea8c,FALSE,FALSE,Education,Basic
+Weber Group,267719.55,-2.23,68.88,b37012dd-4029-4b5c-9044-50196e8903d1,FALSE,FALSE,Education,Basic
+Emmerich and Sons,1324756.23,-27.53,15.16,bd32d0cc-2cab-4a08-8070-cf0e9b5bf987,FALSE,FALSE,Financial Services,Enhanced
+Berge-Kulas,1480319.94,18.64,46.03,3871d52d-3e9b-4fce-bd28-1f4afa156039,FALSE,FALSE,Public Sector,Basic
+Lubowitz-Hermiston,442976.69,61.5,70.33,1e87020a-8f02-46d8-aacb-04bdd9d94bfe,FALSE,FALSE,Education,Basic
+"Powlowski, Sawayn and Thompson",1080391.68,21.96,51.8,5e7cb674-cb13-4871-bae1-9357ffda8cbd,TRUE,FALSE,Construction,Basic
+Howe Group,471521.0,-87.1,52.63,342a7816-7cc7-42f4-a98f-eed9b42c833b,TRUE,FALSE,Education,Enhanced
+Rodriguez and Sons,884445.32,-65.75,39.04,888db780-9cc9-4497-92c0-0fa95c89980e,FALSE,FALSE,Education,Basic
+Armstrong-Keeling,744421.94,-38.18,34.03,07404800-43de-4363-b57c-b848d7270bcf,FALSE,FALSE,Financial Services,Basic
+Murazik-Witting,278524.94,82.44,74.62,6e6edfb9-9756-433b-b5d3-dac2a2c723ca,TRUE,FALSE,Public Sector,Premium
+Berge LLC,1024578.91,94.42,59.81,e5754877-1049-492f-985c-3a2cda306ee5,FALSE,FALSE,Education,Basic
+Hintz Group,727251.97,-38.5,68.37,edc19384-3164-487d-89f7-b45a41723136,TRUE,FALSE,High Tech,None
+Kessler-Mann,297350.41,79.21,19.75,eed0860c-ccb1-4e38-88f2-932df8d1b416,FALSE,FALSE,Financial Services,Basic
+"Carter, Swift and Stroman",887996.37,71.55,36.54,de139ea2-834b-4b14-8842-a66216a2a5f0,FALSE,FALSE,Construction,Basic
+Shanahan-Feil,1001297.46,-42.97,55.53,a35aa5c1-9680-4431-a44b-f549d2576492,FALSE,FALSE,Construction,Basic
+"Maggio, Hilll and Mante",989827.18,15.02,69.31,c6654e2b-4c79-41f3-bdf0-fc54bbb22aff,FALSE,FALSE,Public Sector,Premium

@@ -1,0 +1,27 @@
+{
+  "orgName": "A Busy Customer Service Department",
+  "edition": "Developer",
+  "description": "Predict Cases likely to escalate with Einstein Prediction Builder",
+  "features": ["EinsteinAnalyticsPlus","EinsteinBuilder","AnalyticsAdminPerms"],
+  "settings": {
+    "lightningExperienceSettings": {
+      "enableS1DesktopEnabled": true
+    },
+    "mobileSettings": {
+      "enableS1EncryptedStoragePref2": false
+    },
+    "securitySettings": {
+      "enableAuditFieldsInactiveOwner":true,
+      "passwordPolicies": {
+        "enableSetPasswordInApi": true
+      }
+    },
+    "analyticsSettings": {
+      "enableInsights": true,
+      "enableWaveRecordNavigation":true,
+      "enableWaveReplication":true,
+      "enableWaveTemplate":true
+    }
+    
+  }
+}
