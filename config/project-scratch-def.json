@@ -1,8 +1,8 @@
 {
   "orgName": "A Busy Customer Service Department",
-  "edition": "Enterprise",
+  "edition": "Developer",
   "description": "Predict Cases likely to escalate with Einstein Prediction Builder",
-  "features": ["EinsteinAnalyticsPlus","EinsteinBuilderFree","AnalyticsAdminPerms","CaseClassification","DevelopmentWave","EinsteinBuilder"],
+  "features": ["EinsteinAnalyticsPlus","EinsteinBuilderFree","AnalyticsAdminPerms","DevelopmentWave","EinsteinBuilder"],
   "settings": {
     "lightningExperienceSettings": {
       "enableS1DesktopEnabled": true
