@@ -11,10 +11,7 @@
       "enableS1EncryptedStoragePref2": false
     },
     "securitySettings": {
-      "enableAuditFieldsInactiveOwner":true,
-      "passwordPolicies": {
-        "enableSetPasswordInApi": true
-      }
+      "enableAuditFieldsInactiveOwner":true
     },
     "analyticsSettings": {
       "enableInsights": true,
