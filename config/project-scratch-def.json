@@ -16,9 +16,7 @@
     "analyticsSettings": {
       "enableInsights": true,
       "enableWaveRecordNavigation":true,
-      "enableWaveReplication":true,
-      "enableWaveTemplate":true
+      "enableWaveReplication":true
     }
-    
   }
 }
