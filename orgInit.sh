@@ -1,4 +1,4 @@
-sfdx force:org:create -f config/project-scratch-def.json -d 30 -s -w 3
+sfdx force:org:create -f config/project-scratch-def.json -d 3 -s -w 3
 
 sfdx force:source:push
 sfdx force:user:password:generate
