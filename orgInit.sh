@@ -1,7 +1,7 @@
 sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --wait 60 --userprefix case -o escalation.workshop
 
 sfdx force:source:push
-sfdx force:user:password:generate
+sfdx shane:user:password:set -g User -l User -p salesforce1
 #assign permset to user
 sfdx force:user:permset:assign --permsetname Audit_Fields
 #Load data
