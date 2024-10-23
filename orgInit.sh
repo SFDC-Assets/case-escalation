@@ -1,16 +1,18 @@
-sfdx shane:org:create -f config/project-scratch-def.json -d 30 -s --wait 60 --userprefix case -o escalation.workshop
+sf demoutil org create scratch -f config/project-scratch-def.json -d 30 -s -wait 60 -p case -e escalation.workshop
+sf project deploy start
 
-sfdx force:source:push
-sfdx shane:user:password:set -g User -l User -p salesforce1
+sf demoutil user password set -p salesforce1 -g User -l User
 #assign permset to user
-sfdx force:user:permset:assign --permsetname Audit_Fields
+sf org assign permset -n Audit_Fields
+
 #Load data
-sfdx force:data:bulk:upsert -s Account -f data/CaseEscalationAccounts.csv -i External_ID__c -w 3
-sfdx force:data:bulk:upsert -s Asset -f data/CaseAssets.csv -i External_ID__c -w 3
+sf data upsert bulk --sobject Account --file data/CaseEscalationAccounts.csv --external-id External_ID__c -w 3
+sf data upsert bulk --sobject Asset --file data/CaseAssets.csv --external-id External_ID__c -w 3
 sfdx shane:data:dates:update -r 7-1-2020
-sfdx force:data:bulk:upsert -s Case -f data-modified/ClosedCases.csv -i External_ID__c -w 3
-sfdx force:data:bulk:upsert -s Case -f data-modified/OpenCases.csv -i External_ID__c -w 3
+sf data upsert bulk --sobject Case --file data-modified/ClosedCases.csv --external-id External_ID__c -w 3
+sf data upsert bulk --sobject Case --file data-modified/OpenCases.csv --external-id External_ID__c -w 3
+
 #Install EPB Model Accuracy Package
-sfdx force:package:install -p 04t4J000002ASSJ
+sf package install -p 04t4J000002ASSJ
 #Open org
-sfdx force:org:open -p /lightning/setup/SetupOneHome/home
+sf org open --url-only --path /lightning/setup/SetupOneHome/home
